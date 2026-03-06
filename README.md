@@ -1,2 +1,2 @@
 # madrs
-Multi-Agent Data Research Sysytem
+Multi-Agent Data Research System

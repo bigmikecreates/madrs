@@ -1,0 +1,8 @@
+# Virtual Env
+/.venv
+
+# Pyproject editable artifacts
+/madrs.egg-info
+
+# Used for dynamic versioning of project
+_version.py

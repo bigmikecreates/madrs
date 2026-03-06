@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name="madrs"
+authors = [
+    {name = "Michael Quaye", email = "bookingsbigmike@gmail.com"}
+]
+description="A multi-agent data research system"
+readme="README.md"
+license="MIT"
+dependencies = [
+    'langchain',
+    'langgraph',
+    'langsmith',
+    'fastapi',
+    'requests',
+    'pytest',
+]
+dynamic = ['version']
+
+[tool.setuptools_scm]
+version_file="madrs/_version.py"
+
+[tools.setuptools.packages.find]
+where = ["src"]
