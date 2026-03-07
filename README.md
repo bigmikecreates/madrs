@@ -11,7 +11,7 @@ An alternative approach to integrating AI/agentic solutions as a **mitigation** 
 
 # 1. Introduction
 
-This project proposes an alternative approach to integrating AI /agentic solutions as a mitigation against one of the cognitive consequences suffered by human via their consumption of such solutions: Reduced Learning Efficiency.
+This project proposes an alternative approach to integrating AI /agentic solutions as a mitigation against one of the cognitive consequences suffered by humans via consuming such solutions: Reduced Learning Efficiency.
 
 <br>
 
